@@ -1,0 +1,22 @@
+{
+  "edss_scores": [
+    {
+      "score": "2.5",
+      "last_updated_provider_id": "6672",
+      "save_csn_status": "Open",
+      "save_csn": "894783983",
+      "score_id": "79a90531-dc99-4cd3-9f8b-840059e5752e",
+      "qx_code": "E0A598505E",
+      "last_updated_instant": "11/06/2018 10:53:58"
+    },
+    {
+      "score": "7",
+      "last_updated_provider_id": "6672",
+      "save_csn_status": "Open",
+      "save_csn": "894784004",
+      "score_id": "49f9a15e-6ac0-481d-88d1-5cae3cd22723",
+      "qx_code": "BA38458E3A",
+      "last_updated_instant": "11/02/2018 09:39:30"
+    }
+  ]
+}
